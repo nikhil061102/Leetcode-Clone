@@ -1,0 +1,1 @@
+cd "c:\Users\nikhi\OneDrive\Desktop\New folder\try\" ; if ($?) { g++ hellocpp.cpp -o hellocpp } ; if ($?) { .\hellocpp }

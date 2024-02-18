@@ -1,0 +1,1 @@
+node "c:\Users\nikhi\OneDrive\Desktop\New folder\try\hello.js"

@@ -1,0 +1,1 @@
+cd "c:\Users\nikhi\OneDrive\Desktop\try\" ; if ($?) { rustc hellorust.rs } ; if ($?) { .\hellorust }
